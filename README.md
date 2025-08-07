@@ -9,7 +9,7 @@ Con este análisis buscamos **identificar patrones y factores de riesgo** que ay
 TelecomX-Parte2/
 │
 ├── data/
-│ ├── data_telecom_x2.csv # Datos tratados y listos para modelar
+│ ├── datos_tratados.csv # Datos tratados y listos para modelar
 │
 ├── notebooks/
 │ ├── DesafioTelecom.ipynb # Cuaderno principal del análisis
