@@ -52,10 +52,9 @@ TelecomX-Parte2/
 Durante la exploración se generaron gráficos para entender mejor los datos:
 
 **Mapa de calor de correlaciones** 🔥  
-![Mapa de calor](visuals/correlaciones.png)
 
 **Distribución de clientes churn/no churn** 📉  
-![Distribución churn](visuals/distribucion_churn.png)
+
 
 **Insight clave:** Los clientes con contrato mensual y pagos electrónicos automáticos presentan mayor tasa de cancelación, especialmente cuando los cargos mensuales son altos.
 
@@ -65,7 +64,7 @@ Durante la exploración se generaron gráficos para entender mejor los datos:
 1. **Clonar el repositorio**
 2. **Instalar dependencias**
    pip install -r requirements.txt
-3.**Ubicar datos**
+3. **Ubicar datos**
 4. **Ejecutar cuaderno**
 
 ## **AUTOR**
